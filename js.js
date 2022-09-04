@@ -25,25 +25,25 @@
 })();
 
 let arr1 = [
-  "/cry.png",
-  "/wtf.png",
-  "/wish.png",
-  "/why.png",
-  "eror1.png",
-  "/choice.png",
-  "/t.png",
-  "/eror.png",
+  "img/cry.png",
+  "img/wtf.png",
+  "img/wish.png",
+  "img/why.png",
+  "img/eror1.png",
+  "img/choice.png",
+  "img/t.png",
+  "img/eror.png",
 ];
 
-let arr2 = ["/iron.png", "/hold on.png", "++.png", "/iron2.png"];
+let arr2 = ["img/iron.png", "img/hold on.png", "img/++.png", "img/iron2.png"];
 
 let arr3 = [
-  "/why1.png",
-  "/learn.png",
-  "/skills.png",
-  "fullstack.png",
-  "/enough.png",
-  "/dream.png",
+  "img/why1.png",
+  "img/learn.png",
+  "img/skills.png",
+  "img/fullstack.png",
+  "img/enough.png",
+  "img/dream.png",
 ];
 
 (function () {

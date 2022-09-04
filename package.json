@@ -1,0 +1,24 @@
+{
+  "name": "tour-of-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilia10101000/Tour-of-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilia10101000/Tour-of-learning/issues"
+  },
+  "homepage": "https://github.com/Ilia10101000/Tour-of-learning#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
